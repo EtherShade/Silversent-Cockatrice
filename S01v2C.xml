@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>S01</name>
+      <longname>Silversent Restarved Core 1</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Base Silver</name>
+      <set rarity="">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Silver - Null</type>
+        <maintype>Silver</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Limitless (A deck can have any number of this card.)
+Exert, Remove an endurance counter from Base Silver: Add {1}.</text>
+    </card>
+    <card>
+      <name>Slow Silver</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Silver</type>
+        <maintype>Silver</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Slow Silver enters exerted.
+Exert, Remove an endurance counter from Slow Silver: Add {1}.</text>
+    </card>
+    <card>
+      <name>Burst Silver</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Silver</type>
+        <maintype>Silver</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert, Remove an endurance counter from Burst Silver: Add {2}.</text>
+    </card>
+    <card>
+      <name>Attack Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}: Attack 1. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Skeleton Warrior</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Exert: Attack 2. This ability costs {1} less to activate for each card any player has discarded this turn. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 2 health. If they chose a card they control, remove 2 endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Brain Satiation Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you draw a card, you gain 1 hunger.</text>
+    </card>
+    <card>
+      <name>Brawn Satiation Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you discard a card, gain 1 hunger.</text>
+    </card>
+    <card>
+      <name>Research</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Cure</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Dismiss</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Return a card in play to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Dragon</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: Attack 3. This attack can’t be obstructed. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 3 health. If they chose a card they control, remove 3 endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Drain Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blood 1
+{2}, Exert: Attack 1. You gain 1 health. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Edict</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Choose a player. That player removes all endurance counters from a non-silver card they control.</text>
+    </card>
+    <card>
+      <name>Eliminate</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Remove all endurance counters from a card of your choice.</text>
+    </card>
+    <card>
+      <name>Exact Nothing</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Remove all endurance counters from all cards.</text>
+    </card>
+    <card>
+      <name>Famine Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Blood 1
+{1}: Each opponent loses 1 hunger.</text>
+    </card>
+    <card>
+      <name>Farmer</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: Create a Rations token.</text>
+    </card>
+    <card>
+      <name>Frantic Research</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Discard a card, then draw two cards.</text>
+    </card>
+    <card>
+      <name>Giant</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: Attack 4. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 4 health. If they chose a card they control, remove 4 endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Guardian</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)</text>
+    </card>
+    <card>
+      <name>Loaf of Bread</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Item - Food</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert, Remove an endurance counter from Loaf of Bread: You gain 2 hunger.</text>
+    </card>
+    <card>
+      <name>Lucky Coin</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: Flip a coin. If you win, draw a card. If you lose, discard a card.</text>
+    </card>
+    <card>
+      <name>Lucky Fool</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)
+Targeted (You can’t choose yourself for opponent’s attacks.)
+If a counter would be removed from Lucky Fool, instead flip a coin. If you win, don’t remove that counter.</text>
+    </card>
+    <card>
+      <name>Mana Spring</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: Add {1}.</text>
+    </card>
+    <card>
+      <name>Mind Warrior</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Exert: Attack 2. This ability costs {1} less to activate for each card you’ve drawn this turn other than the first two. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 2 health. If they chose a card they control, remove 2 endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Oppression Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Exert: Choose a player. That player discards a card.</text>
+    </card>
+    <card>
+      <name>Rabbit&apos;s Foot</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If you would flip one or more coins, instead flip that many coins plus one and ignore one result.</text>
+    </card>
+    <card>
+      <name>Rations</name>
+      <set rarity="">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Item - Food</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Limitless (A deck can have any number of this card.)
+Exert, Remove an endurance counter from Rations: You gain 3 hunger.</text>
+    </card>
+    <card>
+      <name>Shared Research</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player draws two cards.</text>
+    </card>
+    <card>
+      <name>Shield</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)</text>
+    </card>
+    <card>
+      <name>Shrine of Offense</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a player would attack, they instead attack for that amount plus 1.</text>
+    </card>
+    <card>
+      <name>Shrine of Heart</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player discards a card at the start of their turn.</text>
+    </card>
+    <card>
+      <name>Shrine of Mind</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player draws an additional card at the start of each of their turns.</text>
+    </card>
+    <card>
+      <name>Shrine of Defense</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a player would attack, they instead attack for that amount minus 1.</text>
+    </card>
+    <card>
+      <name>Shrine of Endurance</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards enter with 1 additional endurance counter.</text>
+    </card>
+    <card>
+      <name>Shrine of Famine</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player loses an additional hunger at the start of their turn.</text>
+    </card>
+    <card>
+      <name>Shrine of Plenty</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player loses 1 less hunger at the start of their turn.</text>
+    </card>
+    <card>
+      <name>Shrine of Weakness</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards enter with 1 less endurance counter.</text>
+    </card>
+    <card>
+      <name>Smite</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Remove all endurance counters from a card with cost {3} or greater.</text>
+    </card>
+    <card>
+      <name>Strike</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Attack 2. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 2 health. If they chose a card they control, remove 2 endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Symmetrical Seeking</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player discards a card, then draws a card.</text>
+    </card>
+    <card>
+      <name>Tactician</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards you play cost {1} less to play.</text>
+    </card>
+    <card>
+      <name>Time Charm</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your turn, attack 1. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Treasure Map</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert, Remove an endurance counter from Treasure Map: Draw card.</text>
+    </card>
+    <card>
+      <name>Vampiric Research</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Remove all counters from a follower card you control. If you did, draw two cards.</text>
+    </card>
+    <card>
+      <name>Wall</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)</text>
+    </card>
+    <card>
+      <name>Compass</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: Look at the top card of your deck. You may put it into your discard.</text>
+    </card>
+    <card>
+      <name>Cookpot</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Structure</type>
+        <maintype>Structure</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Exert, Destroy two Foods you control: Create two Food item tokens with the abilities of both Foods destroyed.</text>
+    </card>
+    <card>
+      <name>Cyclic Flare</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Draw a card.
+When you discard this card, draw a card.</text>
+    </card>
+    <card>
+      <name>Cyclic Force</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player discards their hand and draws seven cards.</text>
+    </card>
+    <card>
+      <name>Cyclic Thought</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each player shuffles their hand and discard into their deck and draws seven cards.</text>
+    </card>
+    <card>
+      <name>Food for Thought</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Item - Food</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert, Remove an endurance counter from Food for Thought: Draw a card and gain 1 hunger.</text>
+    </card>
+    <card>
+      <name>Grave Robbing</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Put up to two cards from your discard on top of your deck in any order.</text>
+    </card>
+    <card>
+      <name>Growling Stomach</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>A player of your choice loses 2 hunger.</text>
+    </card>
+    <card>
+      <name>Innkeeper</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert: You gain 1 hunger.</text>
+    </card>
+    <card>
+      <name>Lestrid, the Ever Feasting</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent loses hunger, you may exert a silver you control. If you do, attack 1. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Okletor, the Ever Searching</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you discard a card, you may exert a silver you control. If you do, attack 1. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Opportunist</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent discards a card, you draw a card.</text>
+    </card>
+    <card>
+      <name>Pomegranate</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Item - Food</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert, Remove an endurance counter from Pomegranate, Discard a card: You gain 1 hunger. Draw a card.</text>
+    </card>
+    <card>
+      <name>Propaganda</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Each opponent discards two cards.</text>
+    </card>
+    <card>
+      <name>Raid</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert any number of followers you control. For each follower exerted this way, attack 2. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 2 health. If they chose a card they control, remove 2 endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Saboteur</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever an opponent plays a non-action card, it enters with one less endurance counter. This effect can’t reduce the amount of endurance counters it enters with below 1.</text>
+    </card>
+    <card>
+      <name>Sacrifice Fodder</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Sacrifice Fodder is destroyed, draw a card.</text>
+    </card>
+    <card>
+      <name>Salt</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Item - Food</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Salt is destroyed, you gain 1 hunger.</text>
+    </card>
+    <card>
+      <name>Shifting Guardian</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)</text>
+    </card>
+    <card>
+      <name>The Shifting One</name>
+      <set rarity="rare">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Cards you play with X in their mana cost cost {X} less to play, where X is the number of endurance counters on The Shifting One.</text>
+    </card>
+    <card>
+      <name>Shifting Warrior</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Exert: Attack X, where X is the number of endurance counters on Shifting Warrior. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose X health. If they chose a card they control, remove X endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Spy</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{2}, Exert: Attack 1. If a player loses health from this attack, look at the top card of their library. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Starvatiomancer</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)
+When Starvatiomancer enters play or is destroyed, each opponent loses 1 hunger.</text>
+    </card>
+    <card>
+      <name>Starving Masses</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you gain hunger, put an endurance counter on Starving Masses.
+Exert, Destroy Starving Masses: Attack X, where X is the number of endurance counters on it. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose X health. If they chose a card they control, remove X endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Town Guard</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Obstruct (This can block attacks.)
+{1}, Exert: Attack 1. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Vial of Blood</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Item</type>
+        <maintype>Item</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Exert, Remove an endurance counter from Vial of Blood: Choose one —
+• You gain 1 health.
+• Put an endurance counter on a follower you control.</text>
+    </card>
+    <card>
+      <name>War Conscriptor</name>
+      <set rarity="uncommon">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>4</manacost>
+        <cmc>4</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Exert, Exert X other followers: Attack X. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose X health. If they chose a card they control, remove X endurance counters from it.)</text>
+    </card>
+    <card>
+      <name>Warrior</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Follower</type>
+        <maintype>Follower</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, Exert: Attack 1. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose 1 health. If they chose a card they control, remove an endurance counter from it.)</text>
+    </card>
+    <card>
+      <name>Mental Strike</name>
+      <set rarity="common">S01</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Action</type>
+        <maintype>Action</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Attack X, where X is the number of cards you’ve drawn this turn. (Choose an opponent. They choose themselves or a card they control that has obstruct. If they chose themselves, they lose X health. If they chose a card they control, remove X endurance counters from it.)</text>
+    </card>
+
+    <!-->Tokens</-->
+
+
+  </cards>
+</cockatrice_carddatabase>
