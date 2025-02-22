@@ -1164,7 +1164,7 @@ Exert, Destroy Starving Masses: Attack X, where X is the number of endurance cou
         <maintype>Silver</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Exert: Add {1}. Look at the top card of your deck. You may put it into your discard.</text>
+      <text>Exert, Remove an endurance counter from Wayfarer’s Coin: Add {1}. Look at the top card of your deck. You may put it into your discard.</text>
     </card>
     <card>
       <name>Imperial Coin</name>
@@ -1177,7 +1177,7 @@ Exert, Destroy Starving Masses: Attack X, where X is the number of endurance cou
         <maintype>Silver</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Exert, Discard a card: Add {2}.</text>
+      <text>Exert, Remove an endurance counter from Imperial Coin, Discard a card: Add {2}.</text>
     </card>
     <card>
       <name>Edible Silver</name>
@@ -1190,7 +1190,7 @@ Exert, Destroy Starving Masses: Attack X, where X is the number of endurance cou
         <maintype>Silver</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Exert: Add {1}. You gain 1 hunger.</text>
+      <text>Exert, Remove an endurance counter from Edible Silver: Add {1}. You gain 1 hunger.</text>
     </card>
     <card>
       <name>Horn of Plenty</name>
