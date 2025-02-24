@@ -52,7 +52,7 @@ Exert, Remove an endurance counter from Slow Silver: Add {1}.</text>
     </card>
     <card>
       <name>Attack Charm</name>
-      <set rarity="uncommon">S01</set>
+      <set rarity="common">S01</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
@@ -745,7 +745,7 @@ When you discard this card, draw a card.</text>
     </card>
     <card>
       <name>Opportunist</name>
-      <set rarity="common">S01</set>
+      <set rarity="uncommon">S01</set>
       <prop>
         <colors></colors>
         <manacost>3</manacost>
